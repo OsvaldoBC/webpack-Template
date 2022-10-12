@@ -1,5 +1,5 @@
 {
-  "name": "webpack_base",
+  "name": "webpack-Template",
   "version": "1.0.0",
   "description": "Set up project with webpack",
   "private": true,
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rbreva/webpack_base.git"
+    "url": "git+https://github.com/osvaldobc/webpack-Template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rbreva/webpack_base/issues"
+    "url": "https://github.com/osvaldobc/webpack-Template/issues"
   },
-  "homepage": "https://github.com/rbreva/webpack_base#readme",
+  "homepage": "https://github.com/osvaldobc/webpack-Template#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
